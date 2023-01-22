@@ -1,4 +1,4 @@
 int main()
 {
-  printf("%s","Test");
+  printf("%s","Test2");
 }
